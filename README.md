@@ -10,7 +10,7 @@ Example:
 
 ## How to do exercises
 
-You need to inpute translation of asked word aor phrase.
+You need to inpute translation of asked word or phrase.
 
 ```
 ask    |  tres
@@ -23,5 +23,5 @@ answer |
 
 ## Support
 
-We can support you:  `sergey@remyrobotics.com`.  
+We can support you:  `sergey.worm@gmail.com`.  
 And you can support us:  `paypal: sergey.worm@gmail.com`.
