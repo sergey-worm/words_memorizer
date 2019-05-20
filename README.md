@@ -12,14 +12,14 @@ Example:
 
 You need to inpute translation of asked word aor phrase.
 
-`
+```
 ask    |  tres
 answer |  три
        |  ok - 1
 -------+------------------------------
 ask    |  восемь
 answer |
-`
+```
 
 ## Support
 
