@@ -2,18 +2,66 @@
 #  view:  "w1,w2,w3,...:  t1,t2,t3,..."
 #----------------------------------------
 
-cero:   ноль
-uno:    один
-dos:    два
-tres:   три
-cuatro: четыре
-cinco:  пять
-seis:   шесть
-siete:  семь
-ocho:   восемь
-nueve:  девять
-diez:   десять
-once:   одиннадцать
-doce:   двенадцать
+cero:              ноль
+uno:               один
+dos:               два
+tres:              три
+cuatro:            четыре
+cinco:             пять
+seis:              шесть
+siete:             семь
+ocho:              восемь
+nueve:             девять
+diez:              десять
+once:              одиннадцать
+doce:              двенадцать
+trece:             тринадцать
+catorce:           четырнадцать
+quince:            пятнадцать
 
-человек:  un hombre, una persona
+dieciseis:         шестнадцать
+diecisiete:        семнадцать
+dieciocho:         восемнадцать
+diecinueve:        девятнадцать
+
+veinte:            двадцать
+veintiuno:         двадцать один
+veintidos:         двадцать два
+veintitres:        двадцать три
+veinticuatro:      двадцать четыре
+veinticinco:       двадцать пять
+veintiseis:        двадцать шесть
+veintisiete:       двадцать семь
+veintiocho:        двадцать восемь
+veintinueve:       двадцать девять
+
+trienta:           тридцать
+trienta y uno:     тридцать один
+cuarenta:          сорок
+cuarenta y dos:    сорок два
+cincuenta:         пятьдесят
+cincuenta y tres:  пятьдесят три
+sesenta:           шестьдесят
+sesenta y cuatro:  шестьдесят четыре
+setenta:           семьдесят
+setenta y cinco:   семьдесят пять
+ochenta:           восемьдесят
+ochenta y seis:    восемьдесят шесть
+noventa:           девяносто
+noventa y siete:   девяносто семь
+
+cien:              сто
+ciento uno:        сто один
+ciento diez:       сто десять
+
+doscientos:        двести
+trescientos:       тристо
+cuatrocientos:     четыресто
+quinientos:        пятьсот
+seiscientos:       шестьсот
+setecientos:       семьсот
+ochocientos:       восемьсот
+novecientos:       девятьсот
+
+mil:               тысяча
+millon:           миллион
