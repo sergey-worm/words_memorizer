@@ -1,0 +1,44 @@
+primero:                      первый
+segundo:                      второй
+tercero:                      третий
+cuarto:                       четвертый
+quinto:                       пятый
+sexto:                        шестой
+septimo,séptimo:              седьмой
+octavo:                       восьмой
+noveno:                       девятый
+decimo,décimo:                десятый
+
+undecimo,undécimo:            одиннадцатый
+duodecimo,duodécimo:          двенадцатый
+decimotercero:                тринадцатый
+decimocuarto:                 четырнадцатый
+decimoquinto:                 пятнадцатый
+decimosexto:                  шестнадцатый
+decimoseptimo,decimoséptimo:  семнадцатый
+decimoctavo:                  восемнадцатый
+decimonoveno:                 девятнадцатый
+
+vigesimo,vigésimo:            двадцатый
+#vigésimo primero:      двадцать первый
+#vigésima segunda:      двадцать второй
+#vigésimo tercero:      двадцать третий
+#vigésimo cuarto:       двадцать четвертый
+#vigésimo quinto:       двадцать пятый
+#vigésima sexta:        двадцать шестой
+#vigésima séptima:      двадцать седьмой
+#vigésimo octavo:       двадцать восьмой
+#vigésimo noveno:       двадцать девятый
+#trigésimo:             тридцатый
+#trigésimo tercero:     тридцать третий
+#cuadragésimo:          сороковой
+#cuadragésimo séptimo:  сорок седьмой
+#quincuagésimo:         пятидесятый
+#sexagésimo:            шестидесятый
+#septuagésimo:          семидесятый
+#octogésimo:            восьмидесятый
+#nonagésimo:            девяностый
+#centésimo:             сотый
+#doscientos:            двухсотый
+#milésimo:              тысячный
+#millonésimo:           миллионный
